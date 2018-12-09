@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IdadePraCachorro</string>
+    <string name="inserir_idade_label">Digite a idade do seu cachorro para converter em idade de humano</string>
+    <string name="btn_descobrir_idade">Descobrir Idade</string>
+</resources>
